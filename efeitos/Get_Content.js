@@ -1,11 +1,11 @@
 $(document).ready(()=>{
 
     ("#btn1").click(()=>{
-       //alert("Text:" + $("#test").text());
+       alert("Text:" + $("#test").text());
     });
 
 $("#btn2").click(()=>{
-        //lert("HTML:" + $("#test").html());
+        lert("HTML:" + $("#test").html());
     });
 
 

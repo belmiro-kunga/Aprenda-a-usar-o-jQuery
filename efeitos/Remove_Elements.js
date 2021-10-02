@@ -6,9 +6,9 @@
 
 $(document).ready(()=>{
     
-    //$("button").click(()=>{
-       // $("#div1").remove();
-   // });
+    $("button").click(()=>{
+        $("#div1").remove();
+    });
         
     $("button").click(()=>{
         $("p").remove();

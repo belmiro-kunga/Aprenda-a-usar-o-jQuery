@@ -8,8 +8,8 @@
 
 
 $(document).ready(()=>{
-    //$("#btn1").click(()=>{
-        //$("p").append("<b>Texto anexado.</b>")
+    $("#btn1").click(()=>{
+        $("p").append("<b>Texto anexado.</b>")
     })
 
     $("#btn2").click(()=>{
